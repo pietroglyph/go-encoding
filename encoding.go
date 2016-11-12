@@ -24,7 +24,7 @@ var encodingMap = map[string]*enc.Encoding{
 	"CP865":             &charmap.CodePage865,
 	"CP866":             &charmap.CodePage866,
 	"ISO-2022-JP":       &japanese.ISO2022JP,
-	"ISO-8858-1":        &charmap.ISO8859_1,
+	"ISO-8859-1":        &charmap.ISO8859_1,
 	"ISO-8859-10":       &charmap.ISO8859_10,
 	"ISO-8859-13":       &charmap.ISO8859_13,
 	"ISO-8859-14":       &charmap.ISO8859_14,
